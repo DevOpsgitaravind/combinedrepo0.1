@@ -1,0 +1,11 @@
+<HTML>
+<BODY>
+<body background="http://www.stratford.edu/sites/default/files/xalex-img3_0.jpg.pagespeed.ic.7hbNs7iB1D.jpg"><font><font color="#D1F2EB">
+
+<P>USERNAME:<img id="passwd" class="tooltip-tipsy" src="css/images/keyboard.svg">
+<input id="password" type="password"></P>
+
+PASSWORD:<img id="passwd" class="tooltip-tipsy"  src="css/images/keyboard.svg">
+<input id="password" type="password">
+
+</body></html>

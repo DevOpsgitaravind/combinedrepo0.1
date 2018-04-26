@@ -1,0 +1,25 @@
+<html>
+<head>
+<body>
+<title>key</title>
+<body background="http://www.stratford.edu/sites/default/files/xalex-img3_0.jpg.pagespeed.ic.7hbNs7iB1D.jpg"><font><font color="#D1F2EB">
+<script type="text/javascript"
+src="keyboard.js" charset="UTF-8"></script>
+<link rel="stylesheet" type="text/css"
+href="keyboard.css">
+</body>
+</head><body><center>
+Type Username:<br>
+<input type="text" value=""
+class="keyboardinput"><br>
+Type password:<br>
+<input type="password" value="" <img id="passwd" class="tooltip-tipsy" 
+class="keyboardinput"><br>
+<button>Register</button><button>Clear</button>
+<P><div align="CENTER BOTTOM"><img src="http://www.kioware.com/documentation/windowsclassic/kwl/7.3.0/pages/virtKbd.png
+" alt="KEY BOARD" style="width:500px;height:228px;">
+</p>
+</center></body>
+</html>
+
+

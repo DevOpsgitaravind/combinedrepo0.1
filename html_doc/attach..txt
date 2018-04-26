@@ -1,0 +1,7 @@
+<html>
+<body>
+<body background="http://www.afterglowstudio.com/Wallpaper/Directory/Marbles.jpg"><font><font color="WHITE"><h1>CHOOSE YOUR DAY!!!!</h1>
+<p><a href="file:///C:/Users/Hp/Desktop/New%20folder/attchclass1.htm"><h2>MONDAY </h2></a></p><p><a href="file:///C:/Users/Hp/Desktop/New%20folder/ATTCHCLASSAFTN.htm"><h2>TUESDAY </h2></a></p><p><a href="file:///C:/Users/Hp/Desktop/New%20folder/wednesday.htm"><h2>WEDNESDAY </h2></a></p>
+<p><a href="file:///C:/Users/Hp/Desktop/New%20folder/THURSDAY.htm"><h2>THURSDAY </h2></a></p><p><a href="file:///C:/Users/Hp/Desktop/New%20folder/friday.htm"><h2>FRIDAY </h2></a></p>
+<p><a href="file:///C:/Users/Hp/Desktop/New%20folder/SAturday.htm"><h2>SATURDAY </h2></a></p>
+</font></body></html>
